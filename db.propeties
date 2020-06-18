@@ -1,0 +1,4 @@
+user=rayllanderson
+password=Jdbc1234
+dburl=jdbc:mysql://localhost:3306/cursojdbc
+useSSL=false
